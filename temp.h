@@ -1,0 +1,1 @@
+double ftoc(double f);
